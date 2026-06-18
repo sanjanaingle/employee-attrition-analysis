@@ -1,0 +1,9 @@
+EmployeeID,Age,Department,Salary,YearsAtCompany,JobSatisfaction,Attrition
+1,25,Sales,30000,1,2,Yes
+2,35,IT,60000,5,4,No
+3,29,HR,35000,2,2,Yes
+4,40,IT,70000,8,5,No
+5,23,Sales,28000,1,1,Yes
+6,45,Finance,80000,10,5,No
+7,31,IT,55000,3,3,No
+8,27,Sales,32000,2,2,Yes
